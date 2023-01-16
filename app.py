@@ -15,7 +15,7 @@ PAGE_TITLE = "Digital CV | Ricardo Marques"
 PAGE_ICON = "🚀"
 NAME = "Ricardo Marques"
 DESCRIPTION = """
-Mathematician, Junior Data Scientist with huge passion for football. Driven by passion.
+Mathematician, aspiring Data Scientist with huge passion for football. Driven by passion.
 """
 EMAIL = "ricardo.andreom@gmail.com"
 SOCIAL_MEDIA = {
