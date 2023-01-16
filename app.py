@@ -118,7 +118,7 @@ st.write("📈⚽","**Data Analyst Intern | Sporting CP**")
 st.write('05/2022 - 07/2022')
 st.write(
     """
-    Participated in developing a machine learning model to help the club to decide to
+    ⚪ Participated in developing a machine learning model to help the club to decide to
     which clubs should lend their players. The goal of this model is minimize the risk of a player have an 
     unsuccessful season in their next club, based on model aproximations of the 
     team style of play and the player style of play.  
@@ -130,8 +130,8 @@ st.write("📈","**Data Analyst Trainee | BNP Paribas**")
 st.write('09/2022 - Present')
 st.write(
     """
-    - Python, R, Excel 
-    - Credit risk, Counterparty risk
+    ⚪ Daily basis in Credit risk and Counterparty risk analysis tasks.
+    ⚪ Used Python for automation script reports and produced reports on R and Excel.
     """
 )
 
