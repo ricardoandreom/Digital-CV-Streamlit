@@ -100,7 +100,7 @@ st.write("#")
 st.subheader("Hard skills")
 st.write(
     """
-    - 💻 Programming: Python (Scikit-learn, Pandas, Keras, Pytorch, OpenCV)
+    - 💻 Programming: Python (Scikit-learn, Pandas) and currently learning Keras, Pytorch, OpenCV
     - 📊 Data Visualization: Tableau, PowerBI, Matplotlib, Plotly 
     - 📚 Modelling: Linear regression, Logistic regression, K-means clustering, Decision trees
     - 💻 Databases: MySQL
