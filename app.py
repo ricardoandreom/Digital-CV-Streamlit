@@ -128,9 +128,8 @@ st.write("📈","**Data Analyst Trainee | BNP Paribas**")
 st.write('09/2022 - Present')
 st.write(
     """
-    - ⚪ As part of the Counterparty Metrics team, I participated in the analysis and production of counterparty metrics. 
-    
-    Additionally, I worked on projects involving the automation of data processing and result production using Python, as well as the creation of Power BI dashboards.
+    - ⚪ As part of the Counterparty Metrics team, I participated in the analysis and production of counterparty metrics.
+       Additionally, I worked on projects involving the automation of data processing and result production using Python, as well as the creation of Power BI dashboards.
     - ⚪ As a member of the Credit Risk Control team, my primary responsibilities included analyzing counterparty metric exposures that breaching limits and reporting on excesses.
     """
 )
