@@ -124,7 +124,7 @@ st.write(
 )
 
 # --- JOB 2 ---
-st.write("📈","**Data Analyst Trainee | BNP Paribas**")
+st.write("📈","#Data Analyst Trainee | BNP Paribas")
 st.write('09/2022 - Present')
 st.write(
     """
