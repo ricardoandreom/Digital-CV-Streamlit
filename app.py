@@ -116,6 +116,7 @@ st.subheader("Work History")
 st.write("---")
 
 # --- JOB 1 ---
+'''
 st.subheader("📈⚽ Data Analyst Intern | Sporting CP")
 st.write('05/2022 - 07/2022')
 st.write(
@@ -123,7 +124,7 @@ st.write(
     - ⚪ Participated in developing a machine learning model to help the club to decide to which clubs should lend their players. 
     - The goal of this model is minimize the risk of a player have an unsuccessful season in their next club, based on model aproximations of the team style of play and the player style of play.  
     """
-)
+)'''
 
 # --- JOB 2 ---
 st.write('#')
