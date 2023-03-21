@@ -27,7 +27,7 @@ SOCIAL_MEDIA = {
 }
 
 PROJECTS = {
-    "🏆 Player Radar charts app": "https://football-player-radar-charts.streamlit.app/"
+    "🏆 Player Radar charts app": "https://football-player-radar-charts.streamlit.app/",
     "🏆 Liga Portugal 21/22 player stats app": "https://ricardoandreom-liga-portugal-2021-22-player-stats.streamlit.app/",
     "🏆 Article written for RECORD analysing South Koreal in WC2022": "https://www.record.pt/internacional/competicoes-de-selecoes/mundial/mundial-2022/detalhe/ao-cuidado-de-fernando-santos-como-travar-os-sul-coreanos",
     "🏆 Article written for RECORD analysing Switzerland in WC2022": "https://www.record.pt/internacional/competicoes-de-selecoes/mundial/mundial-2022/detalhe/hora-de-acertar-o-relogio-e-nao-marcar-passo-a-analise-a-selecao-suica?tokenOffer=S3to1NHFyUOqI6pUFW1G0AxtJuKb8zX0W6lInZGlI8ww&utm_source=Partilha_Artigo_Premium",
