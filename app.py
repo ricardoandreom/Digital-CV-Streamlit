@@ -38,7 +38,6 @@ PROJECTS = {
     "🏆 How bookmakers make the odds of goals and corners in a football match?":"https://github.com/ricardoandreom/Football-Data-Analysis/blob/main/Football_eventing_odds.ipynb",
     "🏆 How far can man jump? - Extreme Value Theory":"https://github.com/ricardoandreom/Extreme-Value-Theory",
     "🏆 How can we describe a team’s style of play using data?":"https://medium.com/@ricardoandreom/how-can-we-describe-a-teams-style-of-play-b14ff359d803",
-    "🏆 K-means for player clustering (2D & 3D)": "https://medium.com/@ricardoandreom/k-means-for-player-clustering-2d-3d-22df7d12f1a9",
     "🏆 Predicting the transfer value of a player": "https://medium.com/@ricardoandreom/predicting-the-transfer-value-of-a-player-c988c301255a",
     "🏆 Montecarlo stock price simulation app": "https://monte-carlo-stock-prices-prediction.streamlit.app/",
     "🏆 Is Liverpool’s poor performance correlated with the high number of injuries?": "https://medium.com/@ricardoandreom/is-liverpools-poor-performance-correlated-with-the-high-number-of-injuries-f8d870714dcb"
