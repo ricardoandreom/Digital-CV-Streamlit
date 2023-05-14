@@ -40,7 +40,6 @@ PROJECTS = {
     "🏆 How far can man jump? - Extreme Value Theory":"https://github.com/ricardoandreom/Extreme-Value-Theory",
     "🏆 How can we describe a team’s style of play using data?":"https://medium.com/@ricardoandreom/how-can-we-describe-a-teams-style-of-play-b14ff359d803",
     "🏆 Predicting the transfer value of a player": "https://medium.com/@ricardoandreom/predicting-the-transfer-value-of-a-player-c988c301255a",
-    "🏆 Montecarlo stock price simulation app": "https://monte-carlo-stock-prices-prediction.streamlit.app/",
     "🏆 Is Liverpool’s poor performance correlated with the high number of injuries?": "https://medium.com/@ricardoandreom/is-liverpools-poor-performance-correlated-with-the-high-number-of-injuries-f8d870714dcb"
     
 
@@ -118,14 +117,14 @@ st.write("---")
 
 # --- JOB 1 ---
 
-#st.subheader("📈⚽ Data Analyst Intern | Sporting CP")
-#st.write('05/2022 - 07/2022')
-#st.write(
-    #"""
-    #- ⚪ Participated in developing a machine learning model to help the club to decide to which clubs should lend their players. 
-    #- The goal of this model is minimize the risk of a player have an unsuccessful season in their next club, based on model aproximations of the team style of play and the player style of play.  
-    #"""
-#)
+st.subheader("📈⚽ Data Analyst Intern | Sporting CP")
+st.write('05/2022 - 07/2022')
+st.write(
+    """
+    - ⚪ Participated in developing a machine learning model to help the club to decide to which clubs should lend their players. 
+    - The goal of this model is minimize the risk of a player have an unsuccessful season in their next club, based on model aproximations of the team style of play and the player style of play.  
+    """
+)
 
 
 # --- JOB 2 ---
@@ -134,7 +133,10 @@ st.subheader("📈 Data Analyst Trainee | BNP Paribas")
 st.write('09/2022 - Present')
 st.write(
     """
-    - ⚪ As part of the Counterparty Metrics team, I participated in the analysis and production of counterparty metrics.
+    - ⚪ As a member of the Digital team at Risk I2S, my responsibilities encompass the design and development of reporting and analytical features for monitoring counterparty risk.
+       Additionally, I am involved in training users on new tools.
+   
+   - ⚪ As part of the Counterparty Metrics team, I participated in the analysis and production of counterparty metrics.
        
        Additionally, I worked on projects involving the automation of data processing and result production using Python, as well as the creation of Power BI dashboards.
     - ⚪ As a member of the Credit Risk Control team, my primary responsibilities included analyzing counterparty metric exposures that breaching limits and reporting on excesses.
