@@ -131,6 +131,7 @@ st.write(
 st.write('#')
 st.subheader("📈 Data Analyst Trainee | BNP Paribas")
 st.write('09/2022 - Present')
+st.write('Internship with rotation on three different teams')
 st.write(
     """
     - ⚪ As a member of the Digital team at Risk I2S, my responsibilities encompass the design and development of reporting and analytical features for monitoring counterparty risk.
