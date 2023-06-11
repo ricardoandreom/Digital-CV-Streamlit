@@ -181,6 +181,8 @@ for project, link in CERTIFICATES_ONLINE.items():
 st.write("#")
 st.subheader("Certificates - Football")
 st.write("---")
+st.write("No URLs associated.")
+st.write("---")
 for project, link in CERTIFICATES_FOOTBALL.items():
     st.write(f"[{project}]({link})")
 
