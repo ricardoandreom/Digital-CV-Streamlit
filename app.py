@@ -50,7 +50,7 @@ CERTIFICATES_ONLINE = {
     "📊 Python for Data Science and Machine Learning Bootcamp": "https://www.udemy.com/certificate/UC-cab537f2-9656-4106-ba8b-aa4cfafe3373/",
     "📊 The Business Intelligence Analyst Course": "https://www.udemy.com/certificate/UC-9681db21-054a-41d7-86d3-2adc11605a82/",
     "📊 Data Science Math Skills": "https://www.coursera.org/account/accomplishments/verify/XN2PJLWC9HNR",
-    "📊 Level I CFA Prep Course (2023) - Quantitative Methods": "udemy.com/certificate/UC-ae2b7cda-d1b1-435e-94ee-e400957eb7bd/",
+    "📊 Level I CFA Prep Course (2023) - Quantitative Methods": "https://www.udemy.com/certificate/UC-ae2b7cda-d1b1-435e-94ee-e400957eb7bd/",
     "📊 Python and Statistics for Financial Analysis": "https://www.coursera.org/account/accomplishments/verify/BHKY6XVMQF59"
 }
 
