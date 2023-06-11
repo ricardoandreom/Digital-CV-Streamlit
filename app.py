@@ -46,6 +46,24 @@ PROJECTS = {
 
 }
 
+CERTIFICATES_ONLINE = {
+    "📊 Python for Data Science and Machine Learning Bootcamp": "https://www.udemy.com/certificate/UC-cab537f2-9656-4106-ba8b-aa4cfafe3373/",
+    "📊 The Business Intelligence Analyst Course": "https://www.udemy.com/certificate/UC-9681db21-054a-41d7-86d3-2adc11605a82/",
+    "📊 Data Science Math Skills": "https://www.coursera.org/account/accomplishments/verify/XN2PJLWC9HNR",
+    "📊 Level I CFA Prep Course (2023) - Quantitative Methods": "udemy.com/certificate/UC-ae2b7cda-d1b1-435e-94ee-e400957eb7bd/",
+    "📊 Python and Statistics for Financial Analysis": "https://www.coursera.org/account/accomplishments/verify/BHKY6XVMQF59"
+}
+
+CERTIFICATES_FOOTBALL = {
+    "⚽ Match analysis - Barça Innovation Hub": "",
+    "⚽ Opponent team analysis - Barça Innovation Hub": "",
+    "⚽ PFSA Level 1 Performance Analysis in Football": "",
+    "⚽ PFSA Level 2 Performance Analysis in Football": "",
+    "⚽ PFSA Level 1 Technical Scouting in Football": "",
+    "⚽ PFSA Level 2 Technical Scouting in Football": ""
+}
+                
+
 st.set_page_config(page_title=PAGE_TITLE, page_icon=PAGE_ICON)
 
 
@@ -149,5 +167,20 @@ st.write("#")
 st.subheader("Projects & Articles")
 st.write("---")
 for project, link in PROJECTS.items():
+    st.write(f"[{project}]({link})")
+    
+    
+# --- CERTIFICATES ---
+st.write("#")
+st.subheader("Certificates - Online courses")
+st.write("---")
+for project, link in CERTIFICATES_ONLINE.items():
+    st.write(f"[{project}]({link})")
+    
+    
+st.write("#")
+st.subheader("Certificates - Football")
+st.write("---")
+for project, link in CERTIFICATES_FOOTBALL.items():
     st.write(f"[{project}]({link})")
 
