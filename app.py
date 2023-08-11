@@ -29,6 +29,7 @@ SOCIAL_MEDIA = {
 PROJECTS = {
     "🏆 Player Radar charts app": "https://football-player-radar-charts.streamlit.app/",
     "🏆 Player similarities app": "https://player-similarities.streamlit.app/",
+    "🏆 Ecommerce Sales Power BI dashboard": "https://app.powerbi.com/groups/me/reports/5fdf93cf-7ee2-402e-80b9-169d25e4ecdc/ReportSection?experience=power-bi",
     "🏆 Article written for RECORD analysing South Koreal in WC2022": "https://www.record.pt/internacional/competicoes-de-selecoes/mundial/mundial-2022/detalhe/ao-cuidado-de-fernando-santos-como-travar-os-sul-coreanos",
     "🏆 Article written for RECORD analysing Switzerland in WC2022": "https://www.record.pt/internacional/competicoes-de-selecoes/mundial/mundial-2022/detalhe/hora-de-acertar-o-relogio-e-nao-marcar-passo-a-analise-a-selecao-suica?tokenOffer=S3to1NHFyUOqI6pUFW1G0AxtJuKb8zX0W6lInZGlI8ww&utm_source=Partilha_Artigo_Premium",
     "🏆 Article written for RECORD analysing Morroco in WC2022": "https://www.record.pt/internacional/competicoes-de-selecoes/mundial/mundial-2022/marrocos/detalhe/rugir-mais-alto-que-os-leoes-do-atlas-ou-de-como-travar-marrocos-nos-quartos-de-final?ref=HP_2BucketDestaquesPrincipais&fbclid=PAAaYWn5R_FJbw1w1LPT_h6LQ_avnKTRjbY2TZIbwO1ilPgxvkVXleEENEx-E",
