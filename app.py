@@ -21,6 +21,7 @@ EMAIL = "ricardo.andreom@gmail.com"
 SOCIAL_MEDIA = {
     "Linkedin": "https://www.linkedin.com/in/ricardoandreom/",
     "Github": "https://github.com/ricardoandreom",
+    "Tableau": "https://public.tableau.com/app/profile/ricardoandreom",
     "Medium": "https://medium.com/@ricardoandreom",
     "Halfspace Analytics Instagram": "https://www.instagram.com/halfspace_analytics/",
     "Linktree": "https://linktr.ee/ricardoandreom"
