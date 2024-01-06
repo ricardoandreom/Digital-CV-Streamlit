@@ -162,8 +162,9 @@ st.write(
        Additionally, I worked on projects involving the automation of data processing and result production using Python, as well as the creation of Power BI dashboards.
     - ⚪ As a member of the Credit Risk Control team, my primary responsibilities included analyzing counterparty metric exposures that breaching limits and reporting on excesses.
     """
-
---- JOB 3 ---
+)
+    
+# --- JOB 3 ---
 st.write('#')
 st.subheader("📈 Data Scientist Trainee | BPI AI Center of Excellence")
 st.write('09/2023 - Present')
