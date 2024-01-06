@@ -137,7 +137,7 @@ st.write("---")
 
 # --- JOB 1 ---
 
-st.subheader("📈⚽ Data Analyst Intern | Sporting CP")
+st.subheader("📈⚽ Data Analyst Intern | Sporting CP | curricular internship")
 st.write('05/2022 - 07/2022')
 st.write(
     """
