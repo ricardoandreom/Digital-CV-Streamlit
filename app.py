@@ -122,13 +122,13 @@ st.write("#")
 st.subheader("Hard skills")
 st.write(
     """
-    - 💻 Programming: Python (Scikit-learn, Pandas) and currently learning Keras, Pytorch, OpenCV
-    - 📊 Data Visualization: Tableau, PowerBI, Matplotlib, Plotly 
-    - 📚 Modelling: Linear regression, Logistic regression, K-means clustering, Decision trees
-    - 💻 Databases: MySQL
+    - 💻 Programming: Python, R, HTML, CSS
+    - 📊 Data Visualization: Tableau, PowerBI, Matplotlib, Seaborn, Altair
+    - 📚 Machine Learning, ETL processes
+    - 💻 Databases: MySQL, BigQuery
+    - 💻 Cloud: Google Cloud
     """
 )
-
 
 # --- WORK HISTORY ---
 st.write('#')
@@ -150,7 +150,7 @@ st.write(
 # --- JOB 2 ---
 st.write('#')
 st.subheader("📈 Data Analyst Trainee | BNP Paribas")
-st.write('09/2022 - Present')
+st.write('09/2022 - 07/2023')
 st.write('Internship with rotation on three different teams')
 st.write(
     """
@@ -162,6 +162,12 @@ st.write(
        Additionally, I worked on projects involving the automation of data processing and result production using Python, as well as the creation of Power BI dashboards.
     - ⚪ As a member of the Credit Risk Control team, my primary responsibilities included analyzing counterparty metric exposures that breaching limits and reporting on excesses.
     """
+
+# --- JOB 3 ---
+st.write('#')
+st.subheader("📈 Data Scientist Trainee | BPI AI Center of Excellence")
+st.write('09/2023 - Present')
+st.write(
 )
 
 # --- Projects & Articles ---
