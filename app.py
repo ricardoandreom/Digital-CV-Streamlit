@@ -29,20 +29,20 @@ SOCIAL_MEDIA = {
 
 PROJECTS = {
     "🏆 Player Radar charts app": "https://football-player-radar-charts.streamlit.app/",
-    "🏆 Player similarities app": "https://player-similarities.streamlit.app/",
     "🏆 Ecommerce Sales Power BI dashboard": "https://app.powerbi.com/groups/me/reports/5fdf93cf-7ee2-402e-80b9-169d25e4ecdc/ReportSection?experience=power-bi",
+    "🏆 Poisson distribution to predict match results": "https://medium.com/@ricardoandreom/poisson-distribution-to-predict-match-results-c4032dcef949?sk=a6c0fdb87ecd8f7698af69ee95fee8c5"
     "🏆 Stock Price Prediction tool": "https://www.linkedin.com/posts/ricardoandreom_datascience-montecarlo-finance-activity-7030227737415925760-a6-6/?utm_source=share&utm_medium=member_desktop",
     "🏆 Article written for RECORD analysing South Koreal in WC2022": "https://www.record.pt/internacional/competicoes-de-selecoes/mundial/mundial-2022/detalhe/ao-cuidado-de-fernando-santos-como-travar-os-sul-coreanos",
     "🏆 Article written for RECORD analysing Switzerland in WC2022": "https://www.record.pt/internacional/competicoes-de-selecoes/mundial/mundial-2022/detalhe/hora-de-acertar-o-relogio-e-nao-marcar-passo-a-analise-a-selecao-suica?tokenOffer=S3to1NHFyUOqI6pUFW1G0AxtJuKb8zX0W6lInZGlI8ww&utm_source=Partilha_Artigo_Premium",
     "🏆 Article written for RECORD analysing Morroco in WC2022": "https://www.record.pt/internacional/competicoes-de-selecoes/mundial/mundial-2022/marrocos/detalhe/rugir-mais-alto-que-os-leoes-do-atlas-ou-de-como-travar-marrocos-nos-quartos-de-final?ref=HP_2BucketDestaquesPrincipais&fbclid=PAAaYWn5R_FJbw1w1LPT_h6LQ_avnKTRjbY2TZIbwO1ilPgxvkVXleEENEx-E",
-    "🏆 Football data scouting - Euclidian player similiarities": "https://medium.com/@ricardoandreom/football-scouting-players-level-of-similarity-88c40fb6e77e",
+    "🏆 Football data scouting - Euclidian player similiarities": "https://medium.com/@ricardoandreom/football-scouting-players-level-of-similarity-88c40fb6e77e?sk=a6d662a250c27da3e2a06b0c72e6d046",
     "🏆 Football data Scouting — Would Dalot be a good signing for a Real Madrid?": "https://medium.com/@ricardoandreom/football-data-scouting-would-dalot-be-a-good-signing-for-a-real-madrid-a5f51f638ff1",
     "🏆 UCL Final 2003/04 visualized using Statsbomb free data": "https://medium.com/@ricardoandreom/ucl-final-2003-04-visualized-using-statsbomb-free-data-f6f7976d9741",
     "🏆 How bookmakers make the odds of goals and corners in a football match?":"https://github.com/ricardoandreom/Football-Data-Analysis/blob/main/Football_eventing_odds.ipynb",
     "🏆 How far can man jump? - Extreme Value Theory":"https://github.com/ricardoandreom/Extreme-Value-Theory",
-    "🏆 How can we describe a team’s style of play using data?":"https://medium.com/@ricardoandreom/how-can-we-describe-a-teams-style-of-play-b14ff359d803",
-    "🏆 Predicting the transfer value of a player": "https://medium.com/@ricardoandreom/predicting-the-transfer-value-of-a-player-c988c301255a",
-    "🏆 Is Liverpool’s poor performance correlated with the high number of injuries?": "https://medium.com/@ricardoandreom/is-liverpools-poor-performance-correlated-with-the-high-number-of-injuries-f8d870714dcb"
+    "🏆 How can we describe a team’s style of play using data?":"https://medium.com/@ricardoandreom/how-can-we-describe-a-teams-style-of-play-b14ff359d803?sk=805992f7c58a19cf3f180735163a756c",
+    "🏆 Predicting the transfer value of a player": "https://medium.com/@ricardoandreom/predicting-the-transfer-value-of-a-player-c988c301255a?sk=ee9f1c0b53f7775581d495a57ae32a5c",
+    "🏆 Player Scouting Recommender System": "https://medium.com/@ricardoandreom/player-scouting-recommendation-system-a77dc3a75790?sk=e325303efcee9b39d1e03b9f04d5e20a"
     
 
 
