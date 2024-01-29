@@ -15,7 +15,7 @@ PAGE_TITLE = "Digital CV | Ricardo Marques"
 PAGE_ICON = "🚀"
 NAME = "Ricardo Marques"
 DESCRIPTION = """
-Mathematician, aspiring Data Scientist with huge passion for football.
+Mathematician, Data Scientist with huge passion for football and finance.
 """
 EMAIL = "ricardo.andreom@gmail.com"
 SOCIAL_MEDIA = {
@@ -48,7 +48,8 @@ PROJECTS = {
 
 }
 
-CERTIFICATES_ONLINE = {
+CERTIFICATES = {
+    "📊 Data Transformation Impact academy - Porto Business School & LTPlabs": "https://eu.credential.net/b6fe07eb-7940-47b5-a1f0-4644b61164bb#gs.4akuza",
     "📊 Python for Data Science and Machine Learning Bootcamp": "https://www.udemy.com/certificate/UC-cab537f2-9656-4106-ba8b-aa4cfafe3373/",
     "📊 The Business Intelligence Analyst Course": "https://www.udemy.com/certificate/UC-9681db21-054a-41d7-86d3-2adc11605a82/",
     "📊 Data Science Math Skills": "https://www.coursera.org/account/accomplishments/verify/XN2PJLWC9HNR",
@@ -107,13 +108,13 @@ for index, (platform,link) in enumerate(SOCIAL_MEDIA.items()):
 
 # --- EXPERIENCE & QUALIFICATIONS
 st.write("#")
-st.subheader("Experience & Qualifications")
+st.subheader("Qualifications")
 st.write(
     """
     - 📚   BSc in Mathematics - Universidade de Coimbra
     - 📚   MSc in Mathematics with specialization in Statistics, Optimization and Financial Math - Universidade de Coimbra
     - ⚽📊 ️Master in Big Data applied to Football - Universidad Católica San Antonio de Murcia
-    - ⚽   Football Scout - Proscout
+    - 📊   Data Transformation Impact academy - Porto Business School & LTPlabs
     """
 )
 
@@ -126,7 +127,7 @@ st.write(
     - 📊 Data Visualization: Tableau, PowerBI, Matplotlib, Seaborn, Altair
     - 📚 Machine Learning, ETL processes
     - 💻 Databases: MySQL, BigQuery
-    - 💻 Cloud: Google Cloud
+    - 💻 Cloud computing: Google Cloud
     """
 )
 
