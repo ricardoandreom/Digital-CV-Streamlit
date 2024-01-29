@@ -184,7 +184,7 @@ for project, link in PROJECTS.items():
 st.write("#")
 st.subheader("Certificates - Online courses")
 st.write("---")
-for project, link in CERTIFICATES_ONLINE.items():
+for project, link in CERTIFICATES.items():
     st.write(f"[{project}]({link})")
     
     
