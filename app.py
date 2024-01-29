@@ -30,7 +30,7 @@ SOCIAL_MEDIA = {
 PROJECTS = {
     "🏆 Player Radar charts app": "https://football-player-radar-charts.streamlit.app/",
     "🏆 Ecommerce Sales Power BI dashboard": "https://app.powerbi.com/groups/me/reports/5fdf93cf-7ee2-402e-80b9-169d25e4ecdc/ReportSection?experience=power-bi",
-    "🏆 Poisson distribution to predict match results": "https://medium.com/@ricardoandreom/poisson-distribution-to-predict-match-results-c4032dcef949?sk=a6c0fdb87ecd8f7698af69ee95fee8c5"
+    "🏆 Poisson distribution to predict match results": "https://medium.com/@ricardoandreom/poisson-distribution-to-predict-match-results-c4032dcef949?sk=a6c0fdb87ecd8f7698af69ee95fee8c5",
     "🏆 Stock Price Prediction tool": "https://www.linkedin.com/posts/ricardoandreom_datascience-montecarlo-finance-activity-7030227737415925760-a6-6/?utm_source=share&utm_medium=member_desktop",
     "🏆 Article written for RECORD analysing South Koreal in WC2022": "https://www.record.pt/internacional/competicoes-de-selecoes/mundial/mundial-2022/detalhe/ao-cuidado-de-fernando-santos-como-travar-os-sul-coreanos",
     "🏆 Article written for RECORD analysing Switzerland in WC2022": "https://www.record.pt/internacional/competicoes-de-selecoes/mundial/mundial-2022/detalhe/hora-de-acertar-o-relogio-e-nao-marcar-passo-a-analise-a-selecao-suica?tokenOffer=S3to1NHFyUOqI6pUFW1G0AxtJuKb8zX0W6lInZGlI8ww&utm_source=Partilha_Artigo_Premium",
