@@ -170,10 +170,10 @@ st.write('#')
 st.subheader("📈 Data Scientist Trainee | BPI AI Center of Excellence")
 st.write('09/2023 - Present')
 st.write(
-Participation in data extraction, transformation, and loading (ETL) processes to ensure data quality and integrity using SQL and Python.
+"Participation in data extraction, transformation, and loading (ETL) processes to ensure data quality and integrity using SQL and Python.
 I develop predictive models for various business metrics and implement machine learning algorithms to solve complex challenges.
 In collaboration with cross-functional teams, I translate business requirements into analytical solutions and design interactive data visualizations for effective communication.
-Leveraging the Google Cloud Platform, I ensure scalable data storage, processing, and analysis.
+Leveraging the Google Cloud Platform, I ensure scalable data storage, processing, and analysis."
 )
 
 # --- Projects & Articles ---
