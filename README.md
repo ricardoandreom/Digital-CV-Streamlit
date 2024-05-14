@@ -14,3 +14,5 @@ Feel free to explore, modify, and adapt this project to create your own interact
 
 Example
 To view an example of the Digital Resume, access this [link](https://ricardo-marques-digital-cv.streamlit.app/), where a static version has been hosted for preview.
+
+<img width="334" alt="image" src="https://github.com/ricardoandreom/Digital-CV-Streamlit/assets/114098654/2ab2c285-a375-48e6-b780-dc421fdb8920">
